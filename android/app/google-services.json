@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1059598722133",
+    "project_id": "clinic-app-c8f4c",
+    "storage_bucket": "clinic-app-c8f4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059598722133:android:be540668e101143ec860dc",
+        "android_client_info": {
+          "package_name": "com.kamisofts.clinics_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjZ78h0gxs6otuQSQh-O7EWxny7akV2LE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

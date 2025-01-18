@@ -1,0 +1,34 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "clinic-app-c8f4c",
+          "appId": "1:1059598722133:android:be540668e101143ec860dc",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "clinic-app-c8f4c",
+          "configurations": {
+            "android": "1:1059598722133:android:be540668e101143ec860dc",
+            "ios": "1:1059598722133:ios:faae18afc3f1eac3c860dc",
+            "web": "1:1059598722133:web:edf48bb545901fdbc860dc"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "source": ".",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "frameworksBackend": {
+      "region": "us-central1"
+    }
+  }
+}
