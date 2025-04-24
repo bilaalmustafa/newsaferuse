@@ -1,5 +1,6 @@
 import 'package:clinics_app/features/admin/presentation/manager/check_provider.dart';
 import 'package:clinics_app/features/auth/presentatation/screens/splash_screen/splash_screen.dart';
+import 'package:clinics_app/features/user/lacewatch/controller.dart/location_viewModel.dart';
 import 'package:clinics_app/features/user/presentation/screens/tabs/check_paggeee.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_easyloading/flutter_easyloading.dart';
@@ -24,7 +25,8 @@ class MyApp extends StatelessWidget {
       builder: (context , orientation , screenType ) {
         return MultiProvider(
           providers: [
-            ChangeNotifierProvider(create: (_)=>CheckProvider())
+            ChangeNotifierProvider(create: (_)=>CheckProvider()),
+            ChangeNotifierProvider(create: (_)=>LocationViewmodel()),
           ],
           child: GetMaterialApp(
               title: 'Safe Use',

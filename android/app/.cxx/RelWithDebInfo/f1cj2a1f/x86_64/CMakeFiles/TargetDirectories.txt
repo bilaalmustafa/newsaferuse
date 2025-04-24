@@ -1,0 +1,2 @@
+E:/D Folder Data/Flutter Session/soft breeze/safer_use_app/android/app/.cxx/RelWithDebInfo/f1cj2a1f/x86_64/CMakeFiles/edit_cache.dir
+E:/D Folder Data/Flutter Session/soft breeze/safer_use_app/android/app/.cxx/RelWithDebInfo/f1cj2a1f/x86_64/CMakeFiles/rebuild_cache.dir

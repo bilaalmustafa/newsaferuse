@@ -63,9 +63,15 @@ dependencies:
   location: ^7.0.0
   geocoding: ^3.0.0
   google_geocoding_plus: ^1.0.0
-  share_plus: ^9.0.0
-  flutter_phone_direct_caller: ^2.1.1
+  share_plus: ^11.0.0
+  flutter_phone_direct_caller: ^2.2.1
   flutter_map_math: ^0.1.7
+  fluttertoast: ^8.2.10
+  cached_network_image: ^3.4.0
+  shimmer: ^3.0.0
+  google_maps_flutter: ^2.12.1
+  camera: ^0.11.1
+  material_symbols_icons: ^4.2815.0
 
 
 
